@@ -11,7 +11,7 @@ function Header() {
             سلامت لاگ
           </Typography>
           <BookIcon />
-          <img src="salamat.svg" style={{width:"30px"}} />
+          <img src="salamat.png" style={{width:"40px"}} />
         </Toolbar>
       </Container>
     </AppBar>
