@@ -1,6 +1,7 @@
 import { AppBar, Container, Toolbar, Typography } from "@mui/material";
 import BookIcon from "@mui/icons-material/Book";
 
+
 function Header() {
   return (
     <AppBar position="sticky">
@@ -10,6 +11,7 @@ function Header() {
             سلامت لاگ
           </Typography>
           <BookIcon />
+          <img src="salamat.svg" style={{width:"30px"}} />
         </Toolbar>
       </Container>
     </AppBar>
